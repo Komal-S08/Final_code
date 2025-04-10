@@ -1,0 +1,31 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.secrets.toml
+
+# Local environment
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Data and models (unless you need them on GitHub)
+*.csv
+*.pkl
+*.joblib
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE/editor stuff
+.vscode/
+.idea/
